@@ -2,10 +2,13 @@ Before beginning the analysis,  mouse ID = g989  with duplicate time points and 
 
 In the Summary statistics we can find that Capomulin Drug Regimen shows considerably small tumor volume values than other drug regimens.
 
-From the Bar and Pie charts we can see that testing universe is divided in almost equal parts, Female 49.8% and Male 50.2%. Capomulin and Ramicane were tested in more than 200 mices while other regimens tested less than 200 and more than 150. Propriva was tested in les tan 150 mouses.
+From the Bar and Pie charts we can see that testing universe is divided in almost equal parts, Female 49.8% and Male 50.2%. 
+Capomulin and Ramicane were tested in more than 200 mices while other regimens tested less than 200 and more than 150. Propriva was tested in les tan 150 mouses.
 
-In the mouse used as an example for line and scattered charts, we can see a tumor volume increased in the two first time points. Later, we can see a decrease behavior in the tumor volume.
+In the mouse used as an example for line and scattered charts, we can see a tumor volume increased in the two first time points. 
+Later, we can see a decrease behavior in the tumor volume.
 
-Last, we can see correlation between mouse weight and average tumor volume is 0.84 We can notice from the correlation and linear regression equation that the higher the mouse weight, the higher the tumor volume.
+Last, we can see correlation between mouse weight and average tumor volume is 0.84 We can notice from the correlation and 
+linear regression equation that the higher the mouse weight, the higher the tumor volume.
 
 Jose H. Sierra
